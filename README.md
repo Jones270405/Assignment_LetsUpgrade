@@ -1,1 +1,1 @@
-# **Day 2 Assignment Submitted**
+**Day 2 Assignment Submitted**
